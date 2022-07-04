@@ -24,10 +24,10 @@ alexm68007@gmail.com
 - R
 - MSSQL Server
 # education
-BSU FAMCS, Computer Science, 2020-2024
-Minsk Gymnasium №1
-BSU Uni-Center
-EPAM DevOps Fundamentals 
+- BSU FAMCS, Computer Science, 2020-2024
+- Minsk Gymnasium №1
+- BSU Uni-Center
+- EPAM DevOps Fundamentals 
 # language skills
-Russian, Belarusian - Native
-English - B1
+- Russian, Belarusian - Native
+- English - B1
